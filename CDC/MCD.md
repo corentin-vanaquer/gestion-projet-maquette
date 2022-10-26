@@ -3,8 +3,6 @@
 
 ## MCD MOCODO
 
-
-
 Utilisateur: codeUtilisateur, prénom, nom, email, motDePasse  
 CREE, 0N Utilisateur, 11 Quiz  
 Quiz: codeQuiz, titre, thème  
