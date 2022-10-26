@@ -1,12 +1,12 @@
 # MLD
 
-Utilisateur ( codeUtilisateur, prénom, nom, email, motDePasse )  
-Quiz ( codeQuiz, titre, thème, #codeUtilisateur )  
-APPARTIENT ( #codeQuiz, #codeTag )  
-Tag ( codeTag, nom )  
-Difficulté ( codeDifficulté, nom )  
-Question ( codeQuestion, description, anecdote, wiki, #codeRéponse, #codeQuiz, #codeDifficulté )  
-Réponse ( codeRéponse, description, #codeQuestion )  
+Utilisateur ( <u>codeUtilisateur</u>, prénom, nom, email, motDePasse )  
+Quiz ( <u>codeQuiz</u>, titre, thème, <u>#codeUtilisateur</u> )  
+APPARTIENT ( <u>#codeQuiz</u>, <u>#codeTag</u> )  
+Tag ( <u>codeTag</u>, nom )  
+Difficulté ( <u>codeDifficulté</u>, nom )  
+Question ( <u>codeQuestion</u>, description, anecdote, wiki, <u>#codeRéponse</u>, <u>#codeQuiz</u>, <u>#codeDifficulté</u> )  
+Réponse ( <u>codeRéponse</u>, description, <u>#codeQuestion</u> )  
 
 ## Tables de DB
 
