@@ -40,6 +40,6 @@
 | En tant que... | J'ai besoin de... | afin de...|
 |---|---|---|
 | Admin | avoir un espace admin et une interface réservés | gérer le contenu du site |
-| Admin | pouvoir gérer sur la page admin le CUD (Create, Update, Delete) des quiz |
-| Admin | pouvoir gérer sur la page admin le CUD (Create, Update, Delete) des thèmes/sujets/tags |
-| Admin | pouvoir gérer sur la page admin le CUD (Create, Update, Delete) des questions |
+| Admin | pouvoir gérer sur la page admin le CUD (Create, Update, Delete) des quiz | ...
+| Admin | pouvoir gérer sur la page admin le CUD (Create, Update, Delete) des thèmes/sujets/tags | ...
+| Admin | pouvoir gérer sur la page admin le CUD (Create, Update, Delete) des questions | ...
