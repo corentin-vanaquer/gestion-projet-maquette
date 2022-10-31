@@ -18,10 +18,10 @@
 
 ## Page d'accueil
 
-![Page d'accueil](./img/desktop-home-page.png)
+![Page d'accueil](./img/desktop-page-accueil.png)
 
 ## Page d'un quiz
-![Page d'un quiz](./img/desktop-quiz-page.png)
+![Page d'un quiz](./img/desktop-page-quiz.png)
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## Page d'accueil
 
-![Page d'accueil](./img/mobile-home-page.png)
+![Page d'accueil](./img/mobile-page-accueil.png)
 
 ## Page d'un quiz
-![Page d'un quiz](./img/mobile-quiz-page.png)
+![Page d'un quiz](./img/mobile-page-quiz.png)
