@@ -1,4 +1,4 @@
-# CP1-gestion-projet-maquette
+# gestion-projet-maquette
 
 - Rédaction des User Stories afin d’obtenir des spécifications fonctionnelles et techniques nécessaires au développement.
 
