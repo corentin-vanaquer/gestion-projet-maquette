@@ -1,7 +1,6 @@
 # gestion-projet-maquette
 
-- Rédaction des User Stories afin d’obtenir des spécifications fonctionnelles et techniques nécessaires au développement.
-
-- Découverte de l'outil wireframe.cc pour produire des wireframes afin de créer une ébauche d'interface qui répond aux besoins listés par le client. 
-
-- Création des wireframes d'un MVP (minimum viable product) d'une plateform de quiz.
+Dans le cadre de ma formation, un exercice visant à nous mettre en situation de conception nous fut proposé. 
+- Dans un premier temps, il était demandé de [synthétiser l'expression](https://github.com/corentin-vanaquer/gestion-projet-maquette/blob/main/CDC/Prise_notes.md) d’un besoin d’un client à travers un audio.
+- Une fois le besoin synthétisé, j’ai pu rédiger les [User Stories](https://github.com/corentin-vanaquer/gestion-projet-maquette/blob/main/CDC/User_stories.md) afin d’obtenir des spécifications fonctionnelles et techniques nécessaires au développement.
+- Pour finir, j’ai proposé des [Wireframes](https://github.com/corentin-vanaquer/gestion-projet-maquette/blob/main/CDC/wireframe.md) dans le but de donner une première vision de ce à quoi pourrait ressembler l’application dans son aspect fonctionnel et technique.
